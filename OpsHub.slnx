@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/OpsHub.Api/OpsHub.Api.csproj" />
+    <Project Path="src/OpsHub.Application/OpsHub.Application.csproj" />
+    <Project Path="src/OpsHub.Domain/OpsHub.Domain.csproj" />
+    <Project Path="src/OpsHub.Infrastructure/OpsHub.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/OpsHub.IntegrationTests/OpsHub.IntegrationTests.csproj" />
+    <Project Path="tests/OpsHub.UnitTests/OpsHub.UnitTests.csproj" />
+  </Folder>
+</Solution>
